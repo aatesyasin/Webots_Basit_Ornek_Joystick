@@ -14,4 +14,4 @@ Webots ortamında Pioneer 3dx adlı robotun basitce joystick ile kontrolü sağl
 
 ## Code
 
-![alt text](https://github.com/aatesyasin/Webots_Basit_Ornek_Joystick/blob/main/controllers/joystickController/joystickController.py)
+![Code_JoystickContreller](https://github.com/aatesyasin/Webots_Basit_Ornek_Joystick/blob/main/controllers/joystickController/joystickController.py)
