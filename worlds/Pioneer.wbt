@@ -1,0 +1,28 @@
+#VRML_SIM R2021a utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.05577588886334728 0.9743683766771495 0.21793420280680986 3.0181858950905442
+  position 0.6235970398122168 2.9327339196499937 -4.779313186147181
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 5 5
+}
+DEF PIONEER_3DX Pioneer3dx {
+  hidden position_0_0 0.01088875925666163
+  hidden position_0_1 26.107745007434342
+  hidden position_0_2 25.286125812905112
+  hidden rotation_1 0 1 0 0.010888759256649462
+  hidden position_1_0 -68.50419394929824
+  hidden rotation_2 -1 0 0 5.672340877502376
+  hidden rotation_4 -1 0 0 0.9750037787159964
+  hidden rotation_9 -1 0 0 0.15338458418676523
+  translation -1.2849295188243879 0.0949239469889599 2.112531763611821
+  rotation 0.007665480139970299 0.9998638947191244 -0.014609327545350489 2.1756270404708635
+  controller "Deneme1_Controller"
+}
